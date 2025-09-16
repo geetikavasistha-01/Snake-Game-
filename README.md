@@ -1,6 +1,10 @@
 # Ultimate Snake Game
 
 An enhanced classic Snake game developed in Python using Pygame, featuring smooth animations, multiple difficulty levels, sound effects, and an interactive menu system.
+<img width="797" height="590" alt="Screenshot 2025-09-17 at 1 07 28 AM" src="https://github.com/user-attachments/assets/51236789-3c97-4760-a3aa-503a5bd7aaaa" />
+<img width="668" height="502" alt="Screenshot 2025-09-17 at 1 09 40 AM" src="https://github.com/user-attachments/assets/ca6593b3-aea4-4cf3-8a64-00e05d9c8efe" />
+<img width="790" height="590" alt="Screenshot 2025-09-17 at 1 08 09 AM" src="https://github.com/user-attachments/assets/8862d277-81ff-4643-9e2e-ce9d09b86398" />
+<img width="786" height="583" alt="Screenshot 2025-09-17 at 1 08 57 AM" src="https://github.com/user-attachments/assets/e9e5763f-c9ea-4061-b643-27a7cbdfcf1f" />
 
 ## Features
 
